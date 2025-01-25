@@ -8,7 +8,8 @@ Information We Collect
 We may collect the following types of information:
 1-	Personal Information: We do not collect personal information such as your name, address, phone number, or email address when you use the App.
 2 - Non-Personal Information:
-o	Device Information: We do not collect device-specific information, including the type of device you use, unique device identifiers, operating system version, and mobile network information.
+o	Device Information: We do not collect device-specific information, including the type of device you use, unique device identifiers, operating system version.
+o	Networke Information: We get mobile network information(wifi network name, ip address,netmask, gateway, dns servers, dhcp server) for display ONLY.
 o	Gameplay Data: We do not collect information related to your interactions with the App, including game progress, scores, and preferences (in this release of Application).
 o	Technical Information: We may automatically collect technical information such as app crashes, error reports, and usage patterns.
 
